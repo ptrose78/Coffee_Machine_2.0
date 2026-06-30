@@ -10,12 +10,42 @@
       </Breakpoints>
       <Probes>
         <Generic>
-          <SignalUID value="1779"/>
           <SignalUID value="1515"/>
           <SignalUID value="1157"/>
           <SignalUID value="2657"/>
           <SignalUID value="2624"/>
           <SignalUID value="2621"/>
+          <SignalUID value="1368"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Main.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="3034"/>
+          <SignalUID value="2560"/>
+          <SignalUID value="2820"/>
+          <SignalUID value="3167"/>
+          <SignalUID value="3101"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="NI_LVConfig.lvlib:Add Key.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="222"/>
         </Generic>
       </Probes>
     </VI>

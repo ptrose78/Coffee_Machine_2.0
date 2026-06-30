@@ -64,6 +64,8 @@
 		</Item>
 		<Item Name="Controls.ctl" Type="VI" URL="../controls/Controls.ctl"/>
 		<Item Name="Display.ctl" Type="VI" URL="../controls/Display.ctl"/>
+		<Item Name="File_Enum.ctl" Type="VI" URL="../controls/File_Enum.ctl"/>
+		<Item Name="File_IO.vi" Type="VI" URL="../File_IO.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Simulators.ctl" Type="VI" URL="../controls/Simulators.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>

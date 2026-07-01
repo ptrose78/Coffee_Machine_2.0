@@ -33,6 +33,8 @@
           <SignalUID value="2820"/>
           <SignalUID value="3167"/>
           <SignalUID value="3101"/>
+          <SignalUID value="6649"/>
+          <SignalUID value="2668"/>
         </Generic>
       </Probes>
     </VI>

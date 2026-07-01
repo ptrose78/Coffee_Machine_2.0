@@ -62,6 +62,8 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
+		<Item Name="Control_Enum.ctl" Type="VI" URL="../controls/Control_Enum.ctl"/>
+		<Item Name="Control_UI.vi" Type="VI" URL="../Control_UI.vi"/>
 		<Item Name="Controls.ctl" Type="VI" URL="../controls/Controls.ctl"/>
 		<Item Name="Display.ctl" Type="VI" URL="../controls/Display.ctl"/>
 		<Item Name="File_Enum.ctl" Type="VI" URL="../controls/File_Enum.ctl"/>
@@ -69,6 +71,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Simulators.ctl" Type="VI" URL="../controls/Simulators.ctl"/>
 		<Item Name="System_Status.ctl" Type="VI" URL="../controls/System_Status.ctl"/>
+		<Item Name="Threshold_Check.vi" Type="VI" URL="../Threshold_Check.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">

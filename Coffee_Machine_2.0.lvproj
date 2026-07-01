@@ -69,9 +69,11 @@
 		<Item Name="File_Enum.ctl" Type="VI" URL="../controls/File_Enum.ctl"/>
 		<Item Name="File_IO.vi" Type="VI" URL="../File_IO.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Process_Table.vi" Type="VI" URL="../Process_Table.vi"/>
 		<Item Name="Simulators.ctl" Type="VI" URL="../controls/Simulators.ctl"/>
 		<Item Name="System_Status.ctl" Type="VI" URL="../controls/System_Status.ctl"/>
 		<Item Name="Threshold_Check.vi" Type="VI" URL="../Threshold_Check.vi"/>
+		<Item Name="Type_Enum.ctl" Type="VI" URL="../controls/Type_Enum.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
